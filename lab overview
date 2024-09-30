@@ -1,0 +1,12 @@
+Lab 1 added:
+1. random number generator
+2. allow user to guess
+3. give hints, too high/low
+4. attempts recorded
+5. start page
+
+lab 2 added:
+1. record number of guesses
+2. cap number of guesses
+3. allow user to play again
+4. difficulty changing (answer range increase every round by 100)
