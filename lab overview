@@ -2,8 +2,15 @@ Lab 1 added:
 1. random number generator
 2. allow user to guess
 3. give hints, too high/low
+4. comments added
+5. start page
 
 lab 2 added:
-1. record number of guesses
-2. cap number of guesses
-3. allow user to play again
+1. attempts system added
+2. attempt limit set at 10
+3. play again feature added
+4. main guard added
+5. updated variable/function names
+6. scoring system added
+7. comments added
+8. start page removed
