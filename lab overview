@@ -1,11 +1,11 @@
-Lab 1:
+Lab 1 - guessing game:
 1. random number generator
 2. allow user to guess
 3. give hints, too high/low
 4. comments added
 5. start page
 
-lab 2:
+lab 2 - guessing game continued:
 1. attempts system added
 2. attempt limit set at 10
 3. play again feature added
@@ -15,4 +15,9 @@ lab 2:
 7. comments added
 8. start page removed
 
-lab 3:
+lab 3 - scientific calculator:
+1. basic calculations added: addition, subtraction, multiplication, division
+2. advanced calculations added: exponential, square-root, log in base 10, natural log, sine, cosine, tangent
+3. error ahngling added
+4. inputs: tabulate and math
+5. selection page added using tabulate
